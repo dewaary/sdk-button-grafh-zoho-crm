@@ -1,0 +1,47 @@
+ body{
+    font-family: arial;
+    font-size: 16px;
+    margin: 0;
+    background: #fff;
+    color: #000;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 100vh;
+    /* margin: 0px;
+    padding: 0px; */
+} 
+
+
+.container {
+    width: 100%;
+}
+h1 {
+    text-align: center;
+    font-size: 46px;
+}
+
+#recordInfo{
+    width: 75%;
+}
+/* textarea{
+	border: 0px;
+    background: #efecec;
+    height: 320px;
+    width: 95%;
+} 
+.topband{
+	background-color: #dadada;
+    padding: 10px;
+    width: 97.5%;
+    box-sizing: border-box;
+
+}
+.blockQuote{
+    width: 100%;
+    padding: 10px;
+    float:center;
+    box-sizing: border-box;
+    position: inherit;
+} */
+

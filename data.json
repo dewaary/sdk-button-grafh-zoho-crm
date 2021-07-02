@@ -1,0 +1,95 @@
+{
+    "data": [
+      {
+        "Owner": {
+          "name": "zoho",
+          "id": "4918916000000319001",
+          "email": "zohotester48@gmail.com"
+        },
+        "Company": "Rangoni Of Florence",
+        "Email": "christopher-maclead@gmail.com",
+        "$currency_symbol": "$",
+        "$upcoming_activity": null,
+        "Sales_12_Month": 5000000,
+        "Last_Activity_Time": "2021-06-27T20:29:12-07:00",
+        "Industry": "Service Provider",
+        "$state": "save",
+        "Unsubscribed_Mode": null,
+        "$converted": false,
+        "$process_flow": false,
+        "Street": "37275 St Rt 17m M",
+        "Zip_Code": "11953",
+        "id": "4918916000000329425",
+        "$approved": true,
+        "$approval": {
+          "delegate": false,
+          "approve": false,
+          "reject": false,
+          "resubmit": false
+        },
+        "Created_Time": "2021-06-27T18:48:29-07:00",
+        "$editable": true,
+        "City": "Middle Island",
+        "No_of_Employees": null,
+        "State": "NY",
+        "$status": "cmv_53-1",
+        "Country": "United States",
+        "Created_By": {
+          "name": "zoho",
+          "id": "4918916000000319001",
+          "email": "zohotester48@gmail.com"
+        },
+        "Annual_Revenue": 850000,
+        "Secondary_Email": null,
+        "Description": null,
+        "$photo_id": "jmp9jc9817a8fcd8e4567865e7df436ee86df",
+        "Rating": null,
+        "$review_process": {
+          "approve": false,
+          "reject": false,
+          "resubmit": false
+        },
+        "Website": "http://www.rangoniofflorence.com",
+        "Twitter": "christophermaclead_sample",
+        "Salutation": "Mr.",
+        "First_Name": "Christopher",
+        "Full_Name": "Mr. Christopher Maclead (Sample)",
+        "Lead_Status": "Lost Lead",
+        "Record_Image": "1f0d19ba0dc83064aa89b3dabbd400d2fd93f3ae9a87cc1489d05f85d0d76bdc9b9a2d41f4b7418ebe5385691f716e41a2563f06742f4f71706603e93a7f86f9eead8e77c7cd97a3abda4aab9d7b7ed1",
+        "Modified_By": {
+          "name": "zoho",
+          "id": "4918916000000319001",
+          "email": "zohotester48@gmail.com"
+        },
+        "$review": null,
+        "Sales_1_Month": 89999000,
+        "Skype_ID": "christopher-maclead",
+        "Phone": "555-555-5555",
+        "Email_Opt_Out": false,
+        "Designation": "VP Accounting",
+        "Modified_Time": "2021-06-27T20:29:12-07:00",
+        "$converted_detail": {},
+        "Unsubscribed_Time": null,
+        "Mobile": "555-555-5555",
+        "$orchestration": false,
+        "Sales_6_Month": 67888000,
+        "Last_Name": "Maclead (Sample)",
+        "Layout": {
+          "name": "Standard",
+          "id": "4918916000000091055"
+        },
+        "$in_merge": false,
+        "Lead_Source": "Cold Call",
+        "Sales_3_Month": 890000,
+        "Tag": [],
+        "Fax": null,
+        "$approval_state": "approved",
+        "Sales_24_Month": 40000000
+      }
+    ],
+    "$responseHeaders": {
+      "x-ratelimit-remaining": "98",
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-reset": "1625141989076"
+    }
+  }
